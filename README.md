@@ -20,4 +20,4 @@ A Native iOS and Android Developer with a passion for creating purposeful mobile
 - 🌱 I'm currently learning Kotlin Multiplatform and Azure DevOps.
 - 💬 Ask me about anything Android and iOS.
 - 📫 How to reach me: www.joelkingsleyr@gmail.com
-- ⚡I love to running, kickboxing and playing the piano.
+- ⚡I love running, kickboxing and playing the piano.
