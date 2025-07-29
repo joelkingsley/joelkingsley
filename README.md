@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Joel Kingsley 👋
 
 <!--
 **joelkingsley/joelkingsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A Native iOS and Android Developer with a passion for creating purposeful mobile-first digital experiences for the people of the world.
+- I'm currently working on adding Compose Multiplatform support to https://github.com/sounddoctrine-de/sdo-apple (an existing personal project of mine for iOS).
+- I'm currently learning Kotlin Multiplatform and Azure DevOps.
+- Ask me about anything Android and iOS.
+- How to reach me: www.joelkingsleyr@gmail.com
