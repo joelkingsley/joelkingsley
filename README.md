@@ -19,5 +19,5 @@ A Native iOS and Android Developer with a passion for creating purposeful mobile
 - 🔭 I'm currently working on adding Compose Multiplatform support to [Sound Doctrine Online](https://github.com/sounddoctrine-de/sdo-apple) (an existing personal project of mine for iOS).
 - 🌱 I'm currently learning Kotlin Multiplatform and Azure DevOps.
 - 💬 Ask me about anything Android and iOS.
-- 📫 How to reach me: www.joelkingsleyr@gmail.com
+- 📫 How to reach me: joelkingsleyr@gmail.com
 - ⚡I love running, kickboxing and playing the piano.
