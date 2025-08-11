@@ -21,5 +21,3 @@ A Native iOS and Android Developer with a passion for creating purposeful mobile
 - 💬 Ask me about anything Android and iOS.
 - 📫 How to reach me: joelkingsleyr@gmail.com
 - ⚡I love running, kickboxing and playing the piano.
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joelkingsley)](https://git.io/streak-stats)
