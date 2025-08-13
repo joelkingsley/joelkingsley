@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A Native iOS and Android Developer with a passion for creating purposeful mobile-first digital experiences for the people of the world.
 - 🔭 I'm currently working on creating [SheetFlow](https://github.com/joelkingsley/sheet-flow), which is an interactive sheet music reader app for iOS and Android being developed using React Native and Expo.
-- 🌱 I'm currently learning Kotlin Multiplatform and Azure DevOps.
+- 🌱 I'm currently learning Kotlin Multiplatform, React Native, Expo and Azure DevOps.
 - 💬 Ask me about anything Android and iOS.
 - 📫 How to reach me: joelkingsleyr@gmail.com
 - ⚡I love running, kickboxing and playing the piano.
