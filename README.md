@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Native iOS and Android Developer with a passion for creating purposeful mobile-first digital experiences for the people of the world.
+A Fullstack Developer specializing in frontend and mobile (native and cross-platform) development with a passion for creating purposeful mobile-first digital experiences for the people of the world.
 - 🔭 I'm currently working on creating [SheetFlow](https://github.com/joelkingsley/sheet-flow), which is an interactive sheet music reader app for iOS and Android being developed using React Native and Expo.
 - 🌱 I'm currently learning Kotlin Multiplatform and preparing for the Google Project Management Professional Certificate.
 - 💬 Ask me about anything Android and iOS.
